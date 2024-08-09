@@ -1,6 +1,7 @@
 # cicd-demo
 CICD Demo using python-app
-1.On Code Push: Whenever you push code changes to the main branch, the pipeline triggers automatically.
+1.On Code Push: 
+Whenever you push code changes to the main branch, the pipeline triggers automatically.
 2.Build Stage:
 The code is fetched from the repository.
 Docker login happens using stored credentials.
